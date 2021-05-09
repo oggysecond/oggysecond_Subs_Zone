@@ -17,3 +17,10 @@
 
 遵守以上規範的情況下，字幕基本可自由取用。
 * 我們對此取用規則保有規定最終解釋權與修改權，並且經評斷可能會有負面影響時，我們仍保有撤銷取用的權利。
+
+---
+SenaRinka
+
+Facebook：https://www.facebook.com/oggysecond/
+Twitter：https://twitter.com/oggysecond
+Plurk：https://www.plurk.com/oggysecond
