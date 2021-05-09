@@ -21,6 +21,8 @@
 ---
 SenaRinka
 
-Facebook：https://www.facebook.com/oggysecond/
+Facebook：https://www.facebook.com/oggysecond
+
 Twitter：https://twitter.com/oggysecond
+
 Plurk：https://www.plurk.com/oggysecond
