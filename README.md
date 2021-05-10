@@ -4,7 +4,7 @@
 當然如有其他建議也可提出。
 
 資料夾命名規則：
-【音樂創作者/翻唱者】歌名/標題(原文)【使用的虛擬聲庫(前綴會有V_)/是否為翻唱】
+【字幕製作時間(年份)】【音樂創作者/翻唱者】歌名/標題(原文)【有使用的虛擬聲庫(前綴 V_)/是否為翻唱】
 
 檔案命名規則：
 歌名/標題(原文) _ 字幕用途 (用於內嵌字幕/YouTube CC字幕...等) _ 字幕檔案類型 (ass/ytt) _ 字幕修訂版本 (如果有)
@@ -26,3 +26,8 @@ Facebook：https://www.facebook.com/oggysecond
 Twitter：https://twitter.com/oggysecond
 
 Plurk：https://www.plurk.com/oggysecond
+
+---
+
+更新紀錄：
+2021/5/10 - 區域建立
